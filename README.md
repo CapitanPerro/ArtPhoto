@@ -1,0 +1,2 @@
+# ArtPhoto
+Theme WP
